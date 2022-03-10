@@ -1,11 +1,9 @@
 - 👋 Olá, Meu nome é Wanderson Santos
 - 📖 I'm a technology student
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/santowanderson">
   <img height="48%" src="https://github-readme-stats.vercel.app/api?username=santowanderson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </div>
-  <div aling="right">
   <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santowanderson&layout=compact&langs_count=7&theme=dark"/>
   </div>
   <div style="display: inline_block"><br>

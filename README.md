@@ -1,4 +1,5 @@
 - 👋 Olá, Meu nome é Wanderson Santos
+- 📖 I'm a technology student
 
 <div align="center">
   <a href="https://github.com/santowanderson">

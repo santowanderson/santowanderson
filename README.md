@@ -1,4 +1,4 @@
-- 👋 Olá, Meu nome é Wanderson Santos
+- 👋 Hi, My name is Wanderson Santos
 - 📖 I'm a technology student
 
 <div align="center">
